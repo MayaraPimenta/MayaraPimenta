@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Jr Front End developer at @Uppersoft with **Javascript, HTML, Sass, Vue 2.0 an Vuex**
 - :desktop_computer: 4º semester in System Analysis and Development
-- 🌱 I’m currently learning with **Typescript, Vue 3.0, Pinia, and Jest**
+- 🌱 I’m currently learning **Typescript, Vue 3.0, Pinia, and Jest**
 - 📫 How to reach me **mayaralrpimenta@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayara-pimenta-a1b177104/](https://www.linkedin.com/in/mayara-pimenta-a1b177104/)
 
