@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mayara Pimenta</h1>
 <h3 align="center">A passionate frontend student from Brazil</h3>
 
-- 🔭 I’m currently working on [personal projects to improve my skills](https://mayarapimenta.github.io/clothestore/)
+- 🔭 I’m currently working as a Jr Front End developer at @Uppersoft with **Javascript, HTML, Sass, Vue 2.0 an Vuex**
 - :desktop_computer: 4º semester in System Analysis and Development
-- 🔧 I’m currently working with **Javascript, HTML, Sass, Vue 2.0 an Vuex**
 - 🌱 I’m currently learning with **Typescript, Vue 3.0, Pinia, and Jest**
 - 📫 How to reach me **mayaralrpimenta@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayara-pimenta-a1b177104/](https://www.linkedin.com/in/mayara-pimenta-a1b177104/)
