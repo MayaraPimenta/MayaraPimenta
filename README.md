@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mayara Pimenta</h1>
 <h3 align="center">A passionate frontend student from Brazil</h3>
 
-- 🔭 I’m currently working as a Jr Front End developer at @Upcities with **Javascript, Typescript, Jquery, HTML, Scss, Vue 2.0, Vue 3.0, Nuxt 2.0 and Keycloak**
+- 🔭 I’m currently working as a Jr Front End developer at @Upcities with **Javascript, Jquery, HTML, Scss, Vue 2.0, Nuxt 2.0 and Keycloak**
 - :desktop_computer: 5º semester in System Analysis and Development
 - 🌱 I’m currently learning **Typescript, Vue 3.0, Pinia, and Jest**
 - 📫 How to reach me **mayaralrpimenta@gmail.com**
