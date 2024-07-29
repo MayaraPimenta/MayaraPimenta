@@ -3,14 +3,14 @@
 <h3 align="center">A passionate frontend student from Brazil</h3>
 
 - 🔭 I’m currently working as a Jr Front End developer at @Upcities with **Javascript, Typescript, Jquery, HTML, Scss, Vue 2.0, Vue 3.0, Nuxt 2.0 and Keycloak**
-- :desktop_computer: 5º semester in System Analysis and Development
-- 🌱 I’m currently learning **Typescript, Vue 3.0, Pinia, and Jest**
+- :desktop_computer: Graduated in System Analysis and Development
 - 📫 How to reach me **mayaralrpimenta@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayara-pimenta-a1b177104/](https://www.linkedin.com/in/mayara-pimenta-a1b177104/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mayapimentaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayapimentaa" height="30" width="40" /></a>
+<a href="https://instagram.com/mayapimentaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayara-pimenta-a1b177104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
