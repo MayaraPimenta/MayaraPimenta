@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a Jr Front End developer at @Upcities with **Javascript, Typescript, Jquery, HTML, Scss, Vue 2.0, Vue 3.0, Nuxt 2.0 and Keycloak**
 - :desktop_computer: Graduated in System Analysis and Development
 - 📫 How to reach me **mayaralrpimenta@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayarapimenta/](https://www.linkedin.com/in/mayara-pimenta-a1b177104/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mayarapimenta/](https://www.linkedin.com/in/mayarapimenta/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
